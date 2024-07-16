@@ -1,17 +1,18 @@
 <h1 align="center">Hi , I'm Panwar Shivani</h1>
 <h3 align="center">A passionate Engineering Graduate from India</h3>
 
-![Image](https://www.tutorialsfreak.com/_next/image?url=%2Fimages%2Fbanner-middle.webp&w=750&q=75)
-
-- 📚 I’m currently learning **Time Series Forecasting**
-- ⚡ In my free time, I design graphics, journals and play sudoku
+<p align="middle"> 
+<img src="https://www.tutorialsfreak.com/_next/image?url=%2Fimages%2Fbanner-middle.webp&w=750&q=75" /><br>
+📚 I’m currently learning <b>Time Series Forecasting</b><br>
+⚡ In my free time, I design graphics, journals and play sudoku
+</p>
 
 
 
 <h3 align="middle">Connect with me:</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/panwar shivani" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+<a href = "discordapp.com/users/1176882172364337168"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></a>
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </p>
 
