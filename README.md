@@ -4,7 +4,7 @@
 ![Image](https://www.tutorialsfreak.com/_next/image?url=%2Fimages%2Fbanner-middle.webp&w=750&q=75)
 
 - 📚 I’m currently learning **Time Series Forecasting**
-- ⚡ In my free time I design graphics, journals and play sudoku
+- ⚡ In my free time, I design graphics, journals and play sudoku
 
 
 
